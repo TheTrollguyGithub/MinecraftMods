@@ -186,6 +186,7 @@ black_concrete_powder_slab=true
 #Mod rules
 allow_grass_life_under_full_blocks=true
 allow_advanced_snowy_grass=true
-allow_grass_slabspreading_on_dirt_slabs=true
+allow_grass_slab_spreading=true
 allow_mycelium_slab_spreading_=true
+allow_flora_growth_on_dirt_slab=true
 allow_ghost_block_projection=true
