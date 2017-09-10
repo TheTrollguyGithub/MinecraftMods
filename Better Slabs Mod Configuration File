@@ -1,7 +1,7 @@
 #Disable slabs you want by replacing 'true' with 'false' right next to the equals sign.
 #Disable some functions from the mod by replacing 'true' with 'false' right next to the equals sign.
 
-#Permission
+#Permission keys
 stone_slab=true
 granite_slab=true
 polished_granite_slab=true
@@ -182,3 +182,10 @@ brown_concrete_powder_slab=true
 green_concrete_powder_slab=true
 red_concrete_powder_slab=true
 black_concrete_powder_slab=true
+
+#Mod rules
+allow_grass_life_under_full_blocks=true
+allow_advanced_snowy_grass=true
+allow_grass_spreading_on_dirt_slabs=true
+allow_mycelium_spreading_on_dirt_slabs=true
+allow_ghost_blocks=true
