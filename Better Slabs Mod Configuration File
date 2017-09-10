@@ -184,8 +184,8 @@ red_concrete_powder_slab=true
 black_concrete_powder_slab=true
 
 #Mod rules
-allow_grass_life_under_full_block=true
-allow_mycelium_life_under_full_block=true
+allow_grass_life_under_full_block=false
+allow_mycelium_life_under_full_block=false
 allow_advanced_snowy_grass=true
 allow_grass_slab_spreading=true
 allow_mycelium_slab_spreading_=true
